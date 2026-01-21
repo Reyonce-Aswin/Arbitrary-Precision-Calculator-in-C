@@ -114,7 +114,9 @@ Feel free to fork the repository and submit a pull request.
 ## 🔗 Author
 
 **Reyonce Aswin**
+
 **Emertxe Information Technologies**
+
 📫 Feel free to connect on LinkedIn and explore more projects on GitHub.
 
 ---
